@@ -1,6 +1,5 @@
 # OORJA AI — Data Center Energy Recovery Finder 🌍⚡
 
-> **Built for the "Earth Forward" Environmental Hackathon**  
 > *Transforming AI's largest thermal footprint into clean warmth, electricity, and local prosperity for neighboring rural and agricultural communities.*
 
 ---
