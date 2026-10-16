@@ -94,30 +94,5 @@ npm run build
 
 ---
 
-## ⏱️ 2-Minute Demo Script (For Hackathon Judges)
-
-1. **Step 1: Discover & Search (0:00 - 0:30)**
-   - Open the Home Page. Point out the Earth Forward banner and earth-toned theme.
-   - Type `"Yotta"` or `"CtrlS"` into the search bar to show instant autocomplete.
-   - Click a marker on the **Home World Preview Map** to preview its card, then click **"View Details & Recovery Plan"**.
-
-2. **Step 2: Interactive Thermodynamic Calculator (0:30 - 1:00)**
-   - On the Detail page, highlight the 4 hero KPI cards (Recoverable Heat, ORC Power, Villages in Range, Avoided CO2).
-   - Switch months (e.g. from July to January) and toggle between **Low**, **Base**, and **High** cases.
-   - Adjust the **Capacity Utilization** and **Heat Capture %** sliders. Watch the numbers and the Recharts bar and pie charts update live without latency!
-
-3. **Step 3: Communities & Other Data Centers Maps (1:00 - 1:30)**
-   - Scroll down to the **Nearby Settlements Map & Table**: show the ranked villages, suitability scores (0–100%), and pipeline feasibility indicators.
-   - Scroll to the **Other Data Centers Map**: highlight how the Haversine formula calculates distances to every other facility in the dataset, with faint connecting lines whose opacity decreases with distance.
-   - Click the **"Download Report (PDF)"** button to instantly generate a branded PDF summary.
-
-4. **Step 4: Explore Map & Impact Conclusion (1:30 - 2:00)**
-   - Click **"Explore Map"** in the top navigation.
-   - Demonstrate the full-screen view: toggle cooling filters (Liquid / Hybrid / Air), adjust the **Capacity slider**, and slide the **Radius circle** between 5 km and 50 km.
-   - Toggle **Dark Mode** and the **Hindi (हिन्दी) language toggle** to show responsiveness and internationalization.
-   - Conclude on the environmental impact: *AI compute doesn't just have to consume energy—it can power communities.*
-
----
-
 ## 📜 License
 MIT License. Created for the Earth Forward Environmental Hackathon.
