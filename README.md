@@ -1,6 +1,6 @@
 # OORJA AI — Data Center Energy Recovery Finder 🌍⚡
 
-> *Transforming AI's largest thermal footprint into clean warmth, electricity, and local prosperity for neighboring rural and agricultural communities.*
+*Transforming AI's largest thermal footprint into clean warmth, electricity, and local prosperity for neighboring rural and agricultural communities.*
 
 ---
 
